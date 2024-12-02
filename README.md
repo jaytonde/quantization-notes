@@ -1,2 +1,2 @@
 # quantization-notes
-Trying quantization with alongside learning the theory of it
+Trying quantization alongside learning theory of it.
